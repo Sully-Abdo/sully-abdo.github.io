@@ -1,11 +1,11 @@
-# HMFAYSAL V2
+MI SITIO
 
 **[HMFAYSAL V2](http://v2.theevilgenius.tk)** is a two column responsive Jekyll theme by Engineer [Hossain Mohd Faysal](http://hmfaysal.tk) featuring a slide out drawer menu in mobile browsers.
 
 ## HMFAYSAL V2 is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
+* Responsive templates. Buscando aprender para ayudar.
+* Estoy muyy felíz de estar aqui aprendiendo
 * Minimal embellishments. Content first; other widget nonsense never.
 * Large feature images for posts and pages.
 * Simple and clear permalink structure.

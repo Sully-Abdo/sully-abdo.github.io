@@ -45,13 +45,13 @@ url: https://sullyonline.live
 
 # Owner/author information
 owner: Sully-abdo
-  name: Sully Gabriela Abdo Montejo
-  avatar: https://scontent.fmid3-1.fna.fbcdn.net/v/t39.30808-6/p526x296/269606322_1905393093181808_5314882369738981875_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFgSfvFZ5tRKJrr2yVzWr4Ku5p42bUoGrS7mnjZtSgatNCPqjygYC9fh8LaITcsXcOWV0HzaH_rqFXBzai40lgk&_nc_ohc=GsAxILUoRLYAX---SXd&_nc_ht=scontent.fmid3-1.fna&oh=00_AT9-26nr1VTtEsVOZSbfkhgHBHk9-dwdckPB1uJk4gopTA&oe=62023851
-  bio: "Soy lo que quiero ser"
-  email: 210300328@ucaribe.edu.mx
+name: Sully Gabriela Abdo Montejo
+avatar: https://scontent.fmid3-1.fna.fbcdn.net/v/t39.30808-6/p526x296/269606322_1905393093181808_5314882369738981875_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFgSfvFZ5tRKJrr2yVzWr4Ku5p42bUoGrS7mnjZtSgatNCPqjygYC9fh8LaITcsXcOWV0HzaH_rqFXBzai40lgk&_nc_ohc=GsAxILUoRLYAX---SXd&_nc_ht=scontent.fmid3-1.fna&oh=00_AT9-26nr1VTtEsVOZSbfkhgHBHk9-dwdckPB1uJk4gopTA&oe=62023851
+bio: "Soy lo que quiero ser"
+email: 210300328@ucaribe.edu.mx
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook: Sully Abdo      
+facebook: https://www.facebook.com/sully.abdo.1/     
   github: sully-abdo         
   stackexchange:  
   linkedin:       

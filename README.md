@@ -38,13 +38,13 @@ General notes and suggestions for customizing HMFAYSAL V2 Theme.
 3. Set the following variables in your `config.yml` file:
 
 ``` yaml
-title:Trabajos de Sully
+title: Trabajos de Sully
 description: Todo lo que se puede encontrar
 disqus_shortname: sully-abdo
 url: https://sullyonline.live
 
 # Owner/sully abdo
-owner: Sully-abdo
+owner: /Sully-abdo
 name: Sully Gabriela Abdo Montejo
 avatar: https://scontent.fmid3-1.fna.fbcdn.net/v/t39.30808-6/p526x296/269606322_1905393093181808_5314882369738981875_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFgSfvFZ5tRKJrr2yVzWr4Ku5p42bUoGrS7mnjZtSgatNCPqjygYC9fh8LaITcsXcOWV0HzaH_rqFXBzai40lgk&_nc_ohc=GsAxILUoRLYAX---SXd&_nc_ht=scontent.fmid3-1.fna&oh=00_AT9-26nr1VTtEsVOZSbfkhgHBHk9-dwdckPB1uJk4gopTA&oe=62023851
 bio: "Soy lo que quiero ser"
@@ -95,7 +95,7 @@ markdown:    kramdown
 
 ---
 
-## Questions?
+## Preguntas?
 
 Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](http://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/Jekyll-HMFAYSAL-V2-Theme/issues/new). And if you make something cool with this theme feel free to let me know.
 

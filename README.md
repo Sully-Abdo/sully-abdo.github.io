@@ -43,7 +43,7 @@ description: Todo lo que se puede encontrar
 disqus_shortname: sully-abdo
 url: https://sullyonline.live
 
-# Owner/author information
+# Owner/sully abdo
 owner: Sully-abdo
 name: Sully Gabriela Abdo Montejo
 avatar: https://scontent.fmid3-1.fna.fbcdn.net/v/t39.30808-6/p526x296/269606322_1905393093181808_5314882369738981875_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFgSfvFZ5tRKJrr2yVzWr4Ku5p42bUoGrS7mnjZtSgatNCPqjygYC9fh8LaITcsXcOWV0HzaH_rqFXBzai40lgk&_nc_ohc=GsAxILUoRLYAX---SXd&_nc_ht=scontent.fmid3-1.fna&oh=00_AT9-26nr1VTtEsVOZSbfkhgHBHk9-dwdckPB1uJk4gopTA&oe=62023851
@@ -71,17 +71,17 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Menú
     url: /
-  - title: About
+  - title: Sobre
     url: /about/
-  - title: Articles
+  - title: Articulos
     url: /articles/
   - title: Setup
     url: /theme-setup/
-  - title: T-Details
+  - title: Detalles
     url: /technical-details/
-  - title: The Evil-Genius
+  - title: La estudiante de negocios
     url: http://www.theevilgenius.tk/
     external: true
 

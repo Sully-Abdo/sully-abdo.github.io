@@ -52,7 +52,7 @@ email: 210300328@ucaribe.edu.mx
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
 facebook: https://www.facebook.com/sully.abdo.1/     
-  github: sully-abdo         
+github: sully-abdo         
   stackexchange:  
   linkedin:       
   instagram:      

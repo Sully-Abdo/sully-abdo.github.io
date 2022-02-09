@@ -82,7 +82,7 @@ links:
   - title: Detalles
     url: /technical-details/
   - title: La estudiante de negocios
-    url: http://www.theevilgenius.tk/
+url: http://www.theevilgenius.tk/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

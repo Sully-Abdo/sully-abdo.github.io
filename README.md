@@ -51,12 +51,12 @@ bio: "Soy lo que quiero ser"
 email: 210300328@ucaribe.edu.mx
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-facebook: https://www.facebook.com/sully.abdo.1/     
+#facebook: https://www.facebook.com/sully.abdo.1/     
 github: sully-abdo         
   stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
+ #linkedin:       
+  #instagram:      
+  #flickr:         
   tumblr:         
   hmfaysalsocial:	
   # For Google Authorship https://plus.google.com/authorship

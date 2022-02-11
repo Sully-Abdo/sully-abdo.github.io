@@ -50,12 +50,12 @@ avatar: https://scontent.fmid3-1.fna.fbcdn.net/v/t39.30808-6/p526x296/269606322_
 bio: "Soy lo que quiero ser"
 email: 210300328@ucaribe.edu.mx
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  #twitter:        
   facebook: https://www.facebook.com/sully.abdo.1/     
   github: sully-abdo         
   stackexchange:  
-  linkedin:       
-  instagram:      
+#linkedin:       
+#instagram:      
   flickr:         
   tumblr:         
   hmfaysalsocial:	
